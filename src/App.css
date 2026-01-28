@@ -323,11 +323,9 @@ nav{
   display: none;
   
 }
-body{
-    overflow-x: hidden;
-
-}
-.hire{
+html, body {
+  overflow-x: hidden;
+}.hire{
     border-radius: 200px;
 
 }
