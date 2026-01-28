@@ -262,7 +262,9 @@ form{
   width:100%;
 }
 textarea{
-  width: 717px;
+
+  width: 100%;
+  max-width: 100%;
   border-radius: 10px;
   border: none;
   padding: 20px;
@@ -444,17 +446,6 @@ html, body {
   align-items: center;
   gap: 20px;
   width:100%;
-}
-textarea{
-  width: 600px;
-  border-radius: 10px;
-  border: none;
-  padding: 20px;
-    background: rgba(255, 255, 255, 0.05);
-  backdrop-filter: blur(10px);
-  color: white;
-    font-size: 1.2rem;
-
 }
 
 #footer{
